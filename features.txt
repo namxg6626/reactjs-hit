@@ -1,0 +1,5 @@
+các tính năng:
+    - thêm todo
+    - sửa todo đã tồn tại
+    - xóa tất cả todo đã xong
+    - xóa check box
